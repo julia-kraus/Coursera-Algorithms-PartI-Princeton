@@ -1,6 +1,6 @@
 # Coursera-Algorithms-PartI-Princeton
 
-My personal solutions to Coursera's [Algorithms PartI class](https://www.coursera.org/learn/algorithms-part1), programmed in Python instead of Java in the original course.
+My personal solutions to Coursera's [Algorithms Part I class](https://www.coursera.org/learn/algorithms-part1), programmed in Python instead of Java in the original course.
 
 The schedule is the following:
 
@@ -18,7 +18,7 @@ Below, you find my lecture notes on the different subjects:
 
 ### Union Find
 
-### Analisys of Algorithms
+### Analysis of Algorithms
 
 ## Week 2
 
